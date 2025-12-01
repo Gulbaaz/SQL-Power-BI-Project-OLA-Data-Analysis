@@ -60,19 +60,14 @@ All SQL questions solved in this project:
 
 # 📊 Power BI Dashboard (Screenshots Included)
 
-### **Dashboard Preview — Page 1**
 ![Dashboard Page 1](03_Images/1.png)
 
-### **Dashboard Preview — Page 2**
 ![Dashboard Page 2](03_Images/2.png)
 
-### **Dashboard Preview — Page 3**
 ![Dashboard Page 3](03_Images/3.png)
 
-### **Dashboard Preview — Page 4**
 ![Dashboard Page 4](03_Images/4.png)
 
-### **Dashboard Preview — Page 5**
 ![Dashboard Page 5](03_Images/5.png)
 
 ---
